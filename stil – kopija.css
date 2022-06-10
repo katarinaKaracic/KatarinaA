@@ -1,0 +1,5 @@
+@charset "UTF-8";
+h1,h2 {color: darkblue;}
+h3 {color: indigo;}
+body {background-image: url(pozadina.jpg);}
+p1, p2 {font-size: 20px}
